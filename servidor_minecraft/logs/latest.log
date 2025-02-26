@@ -208,3 +208,65 @@
 [26Feb2025 20:43:35.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [26Feb2025 20:45:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Best Friends Forever]
 [26Feb2025 20:45:31.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[26Feb2025 20:47:36.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[26Feb2025 20:47:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Pic-A-Nic Basket?]
+[26Feb2025 20:47:54.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[26Feb2025 20:48:19.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10114ms or 202 ticks behind
+[26Feb2025 20:48:41.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
+[26Feb2025 20:48:59.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[26Feb2025 20:49:00.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Ambush]
+[26Feb2025 20:49:58.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Voluntary Exile]
+[26Feb2025 20:51:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Sweet Dreams]
+[26Feb2025 20:51:37.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Disconnected
+[26Feb2025 20:51:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[26Feb2025 20:51:43.780] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 20:51:43.832] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 20:51:43.882] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 20:51:43.948] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 20:51:43.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 20:51:44.037] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 20:51:44.089] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 20:51:44.145] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 20:51:44.194] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 20:51:44.248] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 20:51:44.293] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 20:51:44.338] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 20:51:44.491] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 20:51:44.492] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 20:51:44.532] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 20:51:44.538] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 20:51:49.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.129.53.214:47933] logged in with entity id 5054 at (960.2770400735009, 64.0, 68.48862502608796)
+[26Feb2025 20:51:49.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[26Feb2025 20:51:49.772] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[26Feb2025 20:59:20.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Suit Up]
+[26Feb2025 20:59:32.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has reached the goal [Strong or Careful]
+[26Feb2025 20:59:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo was blown up by Creeper
+[26Feb2025 20:59:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Your First Grave]
+[26Feb2025 20:59:32.463] [Server thread/INFO] [tombstone/]: The player GalletasOreo has successfully been saved
+[26Feb2025 21:00:16.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has reached the goal [Here They Come]
+[26Feb2025 21:03:03.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Disconnected
+[26Feb2025 21:03:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[26Feb2025 21:03:19.838] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 21:03:19.928] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 21:03:19.976] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 21:03:20.025] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 21:03:20.075] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 21:03:20.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 21:03:20.173] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 21:03:20.223] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 21:03:20.271] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 21:03:20.321] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 21:03:20.383] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 21:03:20.432] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 21:03:20.544] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 21:03:20.584] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 21:03:20.584] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 21:03:20.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 21:03:25.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.129.53.214:49583] logged in with entity id 9876 at (1135.7677040016954, -43.0, -23.362370095334477)
+[26Feb2025 21:03:25.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[26Feb2025 21:03:25.877] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[26Feb2025 21:05:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [A Strange Grave Dust]
+[26Feb2025 21:09:51.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[26Feb2025 21:16:33.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21670, l='ServerLevel[world]', x=271.50, y=70.00, z=-680.80] died, message: 'Unemployed suffocated in a wall'
+[26Feb2025 21:16:45.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21991, l='ServerLevel[world]', x=267.47, y=72.82, z=-740.93] died, message: 'Unemployed suffocated in a wall'
+[26Feb2025 21:19:04.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21996, l='ServerLevel[world]', x=266.50, y=72.50, z=-748.93] died, message: 'Unemployed suffocated in a wall'
