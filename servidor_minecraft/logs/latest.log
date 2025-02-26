@@ -270,3 +270,56 @@
 [26Feb2025 21:16:33.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21670, l='ServerLevel[world]', x=271.50, y=70.00, z=-680.80] died, message: 'Unemployed suffocated in a wall'
 [26Feb2025 21:16:45.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21991, l='ServerLevel[world]', x=267.47, y=72.82, z=-740.93] died, message: 'Unemployed suffocated in a wall'
 [26Feb2025 21:19:04.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21996, l='ServerLevel[world]', x=266.50, y=72.50, z=-748.93] died, message: 'Unemployed suffocated in a wall'
+[26Feb2025 21:19:18.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[26Feb2025 21:26:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Where Is The Stone Pen?]
+[26Feb2025 21:28:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Knowledge of Death]
+[26Feb2025 21:28:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has reached the goal [Strong or Careful]
+[26Feb2025 21:28:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg drowned
+[26Feb2025 21:28:09.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Your First Grave]
+[26Feb2025 21:28:09.005] [Server thread/INFO] [tombstone/]: The player luujpg has successfully been saved
+[26Feb2025 21:28:48.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luujpg was kicked for floating too long!
+[26Feb2025 21:28:48.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luujpg lost connection: Flying is not enabled on this server
+[26Feb2025 21:28:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg left the game
+[26Feb2025 21:28:48.237] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2025 21:29:04.636] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 21:29:04.705] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 21:29:04.707] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 21:29:04.819] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 21:29:04.872] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 21:29:04.898] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 21:29:04.936] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 21:29:04.980] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 21:29:05.025] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 21:29:05.077] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 21:29:05.127] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 21:29:05.208] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 21:29:05.420] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 21:29:05.437] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 21:29:05.438] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 21:29:05.438] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 21:29:11.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luujpg[/127.182.37.135:53413] logged in with entity id 29739 at (115.14810008537148, 75.14998983419157, -100.2535499408463)
+[26Feb2025 21:29:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg joined the game
+[26Feb2025 21:29:11.374] [Server thread/INFO] [Jade/]: Syncing config to luujpg (96939d4f-572f-32dd-8bb1-7d8435dc41bd)
+[26Feb2025 21:35:08.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Disconnected
+[26Feb2025 21:35:08.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[26Feb2025 21:35:20.381] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 21:35:20.431] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 21:35:20.486] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 21:35:20.535] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 21:35:20.584] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 21:35:20.634] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 21:35:20.684] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 21:35:20.736] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 21:35:20.968] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 21:35:20.986] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 21:35:20.987] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 21:35:21.028] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 21:35:21.229] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 21:35:21.229] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 21:35:21.229] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 21:35:21.373] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 21:35:25.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.129.53.214:34241] logged in with entity id 33650 at (724.2741889672186, 39.0, -530.7170635993256)
+[26Feb2025 21:35:25.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[26Feb2025 21:35:25.933] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[26Feb2025 21:36:03.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo was frozen to death by Skeleton
+[26Feb2025 21:36:03.652] [Server thread/INFO] [tombstone/]: The player GalletasOreo has successfully been saved
