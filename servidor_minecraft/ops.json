@@ -4,5 +4,11 @@
     "name": "GalletasOreo",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "143c7d98-f796-3c94-afc7-43641ef5bd2a",
+    "name": "AnneTheAvocado",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
