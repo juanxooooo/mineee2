@@ -210,3 +210,26 @@
 [27Feb2025 18:39:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Diamonds!]
 [27Feb2025 18:40:53.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Chest Slayer]
 [27Feb2025 18:41:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has reached the goal [Fortuitous Militia]
+[27Feb2025 18:54:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg suffocated in a wall
+[27Feb2025 18:54:35.924] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for luujpg with unique ID travelersbackpack.standard_27.02.2025-18.54.35.dat
+[27Feb2025 18:54:35.945] [Server thread/INFO] [tombstone/]: The player luujpg has successfully been saved
+[27Feb2025 18:56:43.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15685, l='ServerLevel[world]', x=727.60, y=67.00, z=-547.40] died, message: 'Nitwit was slain by Zombie'
+[27Feb2025 18:57:30.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo moved wrongly!
+[27Feb2025 19:08:03.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Feb2025 19:08:16.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2025 19:08:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2025 19:08:16.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Server closed
+[27Feb2025 19:08:16.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[27Feb2025 19:08:16.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2025 19:08:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Feb2025 19:08:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Feb2025 19:08:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Feb2025 19:08:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 19:08:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 19:08:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 19:08:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Feb2025 19:08:20.087] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@670c698
+[27Feb2025 19:08:20.088] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Feb2025 19:08:20.090] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[27Feb2025 19:08:20.097] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Feb2025 19:08:20.099] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
