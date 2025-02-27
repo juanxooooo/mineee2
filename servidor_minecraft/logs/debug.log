@@ -6484,3 +6484,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Feb2025 08:42:40.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 08:47:40.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 08:47:40.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 08:52:40.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 08:52:40.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 08:57:40.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 08:57:40.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 08:59:49.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jmnrayo lost connection: Disconnected
+[27Feb2025 08:59:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jmnrayo left the game

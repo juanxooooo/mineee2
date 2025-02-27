@@ -320,3 +320,5 @@
 [27Feb2025 08:35:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
 [27Feb2025 08:37:42.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9413, l='ServerLevel[world]', x=1196.54, y=91.77, z=767.85] died, message: 'Unemployed was slain by Zombie'
 [27Feb2025 08:38:19.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9419, l='ServerLevel[world]', x=1180.79, y=92.18, z=782.26] died, message: 'Unemployed was slain by Zombie'
+[27Feb2025 08:59:49.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jmnrayo lost connection: Disconnected
+[27Feb2025 08:59:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jmnrayo left the game
