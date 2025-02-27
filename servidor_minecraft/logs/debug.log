@@ -4085,3 +4085,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Feb2025 18:07:22.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 18:07:22.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 18:09:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Monster Hunter]
+[27Feb2025 18:12:22.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:12:22.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:15:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Hot Stuff]
+[27Feb2025 18:17:22.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:17:22.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:21:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Back to childhood]
+[27Feb2025 18:21:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Not even afraid of death]
+[27Feb2025 18:22:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Knowledge raises the soul]
+[27Feb2025 18:22:22.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:22:22.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:24:07.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=956, y=-10, z=-731} BlockPos{x=955, y=-11, z=-732}
+[27Feb2025 18:25:34.286] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['GalletasOreo'/390, l='ServerLevel[world]', x=904.48, y=-28.00, z=-676.77]]
+[27Feb2025 18:25:37.941] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['GalletasOreo'/390, l='ServerLevel[world]', x=903.01, y=-24.23, z=-684.61]]
+[27Feb2025 18:25:46.686] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['GalletasOreo'/390, l='ServerLevel[world]', x=886.52, y=-34.46, z=-703.78]]
+[27Feb2025 18:26:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Magic Writing]
+[27Feb2025 18:27:22.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:27:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:32:22.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:32:22.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:33:54.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo moved too quickly! 8.55867904568413,-4.602105220117472,-3.3991072992027966
+[27Feb2025 18:35:29.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luujpg moved wrongly!
+[27Feb2025 18:37:22.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 18:37:22.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 18:39:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has made the advancement [Diamonds!]
