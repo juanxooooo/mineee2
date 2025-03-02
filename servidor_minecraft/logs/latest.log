@@ -181,3 +181,24 @@
 [02Mar2025 18:47:20.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/495, l='ServerLevel[world]', x=255.71, y=80.00, z=-791.50] died, message: 'Weaponsmith was slain by Zombie'
 [02Mar2025 19:07:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has made the advancement [Planting the Past]
 [02Mar2025 19:10:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has reached the goal [Bone Crusher]
+[02Mar2025 19:20:32.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnneTheAvocado lost connection: Disconnected
+[02Mar2025 19:20:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado left the game
+[02Mar2025 19:21:07.561] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Mar2025 19:21:07.610] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Mar2025 19:21:07.660] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Mar2025 19:21:07.710] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Mar2025 19:21:07.759] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Mar2025 19:21:07.809] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Mar2025 19:21:07.860] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Mar2025 19:21:07.910] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Mar2025 19:21:07.960] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Mar2025 19:21:08.009] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Mar2025 19:21:08.060] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Mar2025 19:21:08.110] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Mar2025 19:21:08.254] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Mar2025 19:21:08.265] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Mar2025 19:21:08.306] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Mar2025 19:21:08.338] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Mar2025 19:21:12.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnneTheAvocado[/127.6.234.178:32829] logged in with entity id 13841 at (64.7371277745741, 34.0, -953.6647860640377)
+[02Mar2025 19:21:12.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
+[02Mar2025 19:21:12.220] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
