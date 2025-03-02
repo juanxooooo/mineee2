@@ -56,7 +56,8 @@
       "minecraft:stony_shore": "2025-02-27 07:57:48 +0000",
       "minecraft:cold_ocean": "2025-02-27 07:58:18 +0000",
       "minecraft:lush_caves": "2025-02-28 07:45:53 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-02-27 07:46:15 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-02-27 07:46:15 +0000",
+      "minecraft:meadow": "2025-03-02 19:32:54 +0000"
     },
     "done": false
   },
@@ -4560,7 +4561,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-03-02 19:32:50 +0000",
+      "clover_patch": "2025-03-02 19:32:14 +0000",
       "maple_woods": "2025-03-02 18:43:13 +0000",
+      "orchard": "2025-03-02 19:35:39 +0000",
       "glowing_grotto": "2025-03-02 19:15:19 +0000"
     },
     "done": false
