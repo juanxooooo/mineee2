@@ -179,3 +179,5 @@
 [02Mar2025 18:46:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has made the advancement [A Seedy Place]
 [02Mar2025 18:47:08.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/615, l='ServerLevel[world]', x=272.70, y=74.00, z=-758.30] died, message: 'Farmer was slain by Zombie'
 [02Mar2025 18:47:20.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/495, l='ServerLevel[world]', x=255.71, y=80.00, z=-791.50] died, message: 'Weaponsmith was slain by Zombie'
+[02Mar2025 19:07:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has made the advancement [Planting the Past]
+[02Mar2025 19:10:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has reached the goal [Bone Crusher]

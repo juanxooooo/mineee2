@@ -1563,6 +1563,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-02-28 08:06:18 +0000",
+      "cooked_beef": "2025-03-02 19:05:39 +0000",
       "bread": "2025-02-28 08:15:45 +0000",
       "glow_berries": "2025-02-28 07:50:13 +0000",
       "cooked_salmon": "2025-02-27 08:15:17 +0000"
@@ -3709,6 +3710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-02 18:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-02 18:46:20 +0000"
@@ -3778,6 +3785,12 @@
   "refurbished_furniture:recipes/decorations/light_blue_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-02 18:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-02 18:53:51 +0000"
     },
     "done": true
   },
@@ -4033,6 +4046,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-03-02 18:57:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
     "criteria": {
       "has_light_blue_dye": "2025-03-02 18:27:01 +0000"
@@ -4066,6 +4085,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-03-02 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-02 18:57:18 +0000"
     },
     "done": true
   },
@@ -4294,6 +4319,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2025-03-02 18:36:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-03-02 18:57:18 +0000"
     },
     "done": true
   },
