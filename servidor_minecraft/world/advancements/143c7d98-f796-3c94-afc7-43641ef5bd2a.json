@@ -3517,9 +3517,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-02 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
     },
     "done": true
   },
@@ -3535,15 +3547,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-02 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_toilet": {
     "criteria": {
       "has_dye": "2025-03-02 18:26:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-02 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
     },
     "done": true
   },
@@ -3571,6 +3619,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-03-02 18:46:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
     "criteria": {
       "has_light_blue_dye": "2025-03-02 18:27:01 +0000"
@@ -3583,9 +3637,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-02 18:36:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
     },
     "done": true
   },
@@ -3619,15 +3685,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-02 18:46:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
     "criteria": {
       "has_blue_dye": "2025-03-02 18:26:47 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
     "criteria": {
       "has_blue_dye": "2025-03-02 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-02 18:46:20 +0000"
     },
     "done": true
   },
@@ -3667,6 +3751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-03-02 18:36:23 +0000"
@@ -3676,6 +3766,12 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-02 18:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -3694,6 +3790,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-02 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -3769,6 +3871,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
     "criteria": {
       "forge:dyes/yellow": "2025-03-02 18:36:52 +0000"
@@ -3784,6 +3898,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-03-02 18:22:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2025-03-02 18:43:13 +0000"
     },
     "done": true
   },
@@ -3808,6 +3928,30 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-03-02 18:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -3850,6 +3994,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-02 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -3901,6 +4051,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-03-02 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-02 18:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
     "criteria": {
       "has_light_blue_dye": "2025-03-02 18:27:01 +0000"
@@ -3928,6 +4096,30 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-03-02 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-03-02 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -3961,9 +4153,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-03-02 18:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
     },
     "done": true
   },
@@ -3985,6 +4195,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_blue_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-02 18:27:01 +0000"
@@ -4002,6 +4230,12 @@
       "has_dye": "2025-03-02 18:36:52 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-03-02 18:43:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -4045,6 +4279,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-03-02 18:22:27 +0000"
@@ -4057,6 +4297,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-03-02 18:46:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
     "criteria": {
       "has_light_blue_dye": "2025-03-02 18:27:01 +0000"
@@ -4066,6 +4318,12 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-02 18:36:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4084,6 +4342,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
     "criteria": {
       "has_light_blue_dye": "2025-03-02 18:27:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4117,9 +4381,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-02 18:27:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4129,15 +4405,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-02 18:27:01 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-02 18:26:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4150,6 +4444,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-02 18:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4168,6 +4468,12 @@
   "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-03-02 18:36:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },
@@ -4201,6 +4507,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-02 18:46:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-03-02 18:22:27 +0000"
@@ -4219,9 +4543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-02 18:22:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
     },
     "done": true
   },
@@ -4249,6 +4585,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-02 18:26:47 +0000"
@@ -4258,6 +4600,18 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-02 18:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-02 18:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-02 18:37:42 +0000"
     },
     "done": true
   },

@@ -176,3 +176,6 @@
 [02Mar2025 18:21:46.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13022ms or 260 ticks behind
 [02Mar2025 18:22:09.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7851ms or 157 ticks behind
 [02Mar2025 18:35:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnneTheAvocado> eeeeee
+[02Mar2025 18:46:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has made the advancement [A Seedy Place]
+[02Mar2025 18:47:08.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/615, l='ServerLevel[world]', x=272.70, y=74.00, z=-758.30] died, message: 'Farmer was slain by Zombie'
+[02Mar2025 18:47:20.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/495, l='ServerLevel[world]', x=255.71, y=80.00, z=-791.50] died, message: 'Weaponsmith was slain by Zombie'
