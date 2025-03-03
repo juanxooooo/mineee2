@@ -6768,9 +6768,87 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 10:56:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-03-03 10:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-03 10:45:13 +0000"
     },
     "done": true
   },
@@ -6792,6 +6870,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-03-03 10:45:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-03-03 10:39:56 +0000"
@@ -6801,6 +6885,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-03-03 10:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-03 10:45:22 +0000"
     },
     "done": true
   },
@@ -6816,6 +6906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-03 10:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-03 10:39:56 +0000"
@@ -6825,6 +6921,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2025-03-03 10:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-03 10:50:30 +0000"
     },
     "done": true
   },
@@ -6839,6 +6941,12 @@
       "has_planks": "2025-03-03 10:39:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-03 10:50:30 +0000"
+    },
+    "done": false
   },
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
@@ -6855,6 +6963,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-03-03 10:39:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-03-03 10:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-03 10:45:13 +0000"
     },
     "done": true
   },
@@ -6903,6 +7023,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-03-03 10:29:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-03-03 10:45:22 +0000"
     },
     "done": true
   },
@@ -6957,6 +7083,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-03-03 10:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-03 10:44:55 +0000"
     },
     "done": true
   },

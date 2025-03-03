@@ -4526,3 +4526,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 10:43:38.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 10:44:55.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [A Seedy Place]
 [03Mar2025 10:45:35.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnneTheAvocado: Teleported AnneTheAvocado to GalletasOreo]
+[03Mar2025 10:48:38.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 10:48:38.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 10:50:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [The Parrots and the Bats]
+[03Mar2025 10:51:34.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GalletasOreo: Teleported GalletasOreo to AnneTheAvocado]
+[03Mar2025 10:53:38.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 10:53:38.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 10:56:28.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has reached the goal [Pray to the Goddess]
+[03Mar2025 10:57:02.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnneTheAvocado lost connection: Timed out
+[03Mar2025 10:57:02.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado left the game
+[03Mar2025 10:57:16.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Timed out
+[03Mar2025 10:57:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
