@@ -180,3 +180,51 @@
 [03Mar2025 09:47:10.069] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
 [03Mar2025 09:47:22.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13174ms or 263 ticks behind
 [03Mar2025 09:47:41.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[03Mar2025 10:24:24.131] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Mar2025 10:24:24.241] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Mar2025 10:24:24.283] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Mar2025 10:24:24.351] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Mar2025 10:24:24.351] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Mar2025 10:24:24.353] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Mar2025 10:24:24.461] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Mar2025 10:24:24.463] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Mar2025 10:24:24.571] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Mar2025 10:24:24.611] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Mar2025 10:24:24.681] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Mar2025 10:24:24.690] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Mar2025 10:24:24.931] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Mar2025 10:24:24.932] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Mar2025 10:24:24.941] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Mar2025 10:24:24.941] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Mar2025 10:24:28.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnneTheAvocado[/127.6.234.178:35203] logged in with entity id 9163 at (-193.85569016199705, 65.0, -922.890639158842)
+[03Mar2025 10:24:28.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
+[03Mar2025 10:24:28.827] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
+[03Mar2025 10:24:30.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[03Mar2025 10:24:47.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnneTheAvocado> GalletasOreo duem
+[03Mar2025 10:24:54.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnneTheAvocado> AAAAAAAAAAAAAAAAAAAAA
+[03Mar2025 10:24:55.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Disconnected
+[03Mar2025 10:24:55.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[03Mar2025 10:25:07.485] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Mar2025 10:25:07.537] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Mar2025 10:25:07.585] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Mar2025 10:25:07.633] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Mar2025 10:25:07.682] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Mar2025 10:25:07.733] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Mar2025 10:25:07.784] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Mar2025 10:25:07.830] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Mar2025 10:25:07.878] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Mar2025 10:25:07.926] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Mar2025 10:25:07.980] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Mar2025 10:25:08.027] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Mar2025 10:25:08.193] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Mar2025 10:25:08.193] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Mar2025 10:25:08.194] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Mar2025 10:25:08.233] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Mar2025 10:25:13.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.124.156.41:40569] logged in with entity id 9653 at (913.0638024148654, 93.0, -699.2301399981899)
+[03Mar2025 10:25:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[03Mar2025 10:25:13.047] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[03Mar2025 10:25:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnneTheAvocado> menos mal que no me explotan los fokin creepers
+[03Mar2025 10:25:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GalletasOreo> jakajskajsa
+[03Mar2025 10:26:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnneTheAvocado> los cocodrilos te atacan??
+[03Mar2025 10:26:38.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GalletasOreo> no
+[03Mar2025 10:26:43.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GalletasOreo> son cariñosos
