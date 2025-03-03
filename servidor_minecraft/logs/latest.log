@@ -159,3 +159,24 @@
 [03Mar2025 09:18:16.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.813s)! For help, type "help"
 [03Mar2025 09:18:16.285] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Mar2025 09:18:19.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[03Mar2025 09:47:03.960] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Mar2025 09:47:03.997] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Mar2025 09:47:04.045] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Mar2025 09:47:04.095] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Mar2025 09:47:04.143] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Mar2025 09:47:04.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Mar2025 09:47:04.241] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Mar2025 09:47:04.289] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Mar2025 09:47:04.340] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Mar2025 09:47:04.387] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Mar2025 09:47:04.434] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Mar2025 09:47:04.482] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Mar2025 09:47:04.692] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Mar2025 09:47:04.692] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Mar2025 09:47:04.715] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Mar2025 09:47:04.715] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Mar2025 09:47:09.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.124.156.41:58935] logged in with entity id 431 at (761.8528844337153, 64.0, -497.80349032341763)
+[03Mar2025 09:47:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[03Mar2025 09:47:10.069] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[03Mar2025 09:47:22.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13174ms or 263 ticks behind
+[03Mar2025 09:47:41.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
