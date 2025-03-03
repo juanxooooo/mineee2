@@ -54,6 +54,7 @@
       "minecraft:taiga": "2025-02-26 15:45:27 +0000",
       "minecraft:frozen_river": "2025-02-27 08:24:16 +0000",
       "minecraft:sunflower_plains": "2025-02-27 19:32:23 +0000",
+      "minecraft:windswept_hills": "2025-03-02 20:28:49 +0000",
       "minecraft:beach": "2025-02-26 15:51:27 +0000",
       "minecraft:river": "2025-02-26 15:48:22 +0000",
       "minecraft:stony_shore": "2025-02-26 15:45:14 +0000",
@@ -69,6 +70,7 @@
       "minecraft:ocean": "2025-02-27 19:30:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-26 15:41:29 +0000",
       "minecraft:snowy_beach": "2025-02-27 08:26:40 +0000",
+      "minecraft:windswept_savanna": "2025-03-02 20:28:40 +0000",
       "minecraft:deep_dark": "2025-02-27 19:22:33 +0000",
       "minecraft:plains": "2025-02-27 19:26:12 +0000"
     },
@@ -197,10 +199,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-27 08:24:18 +0000",
+      "woodland": "2025-03-02 20:31:11 +0000",
       "highland": "2025-02-27 18:17:28 +0000",
+      "clover_patch": "2025-03-02 20:30:12 +0000",
       "cold_desert": "2025-02-27 19:08:12 +0000",
       "maple_woods": "2025-02-26 15:49:57 +0000",
       "field": "2025-02-27 19:27:58 +0000",
+      "orchard": "2025-03-02 20:28:25 +0000",
       "lavender_forest": "2025-02-27 20:02:21 +0000",
       "mediterranean_forest": "2025-02-27 20:02:45 +0000",
       "coniferous_forest": "2025-02-26 15:48:53 +0000",
@@ -6565,75 +6570,9 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "repurposed_structures:pyramids": {
     "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-02 19:59:04 +0000"
+      "in_pyramid_nether": "2025-03-02 19:55:18 +0000"
     },
     "done": false
   },
@@ -6649,12 +6588,6 @@
     },
     "done": true
   },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_nether": "2025-03-02 19:55:18 +0000"
-    },
-    "done": false
-  },
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-03-02 19:56:18 +0000"
@@ -6666,6 +6599,78 @@
       "travelled": "2025-03-02 19:58:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 20:32:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
