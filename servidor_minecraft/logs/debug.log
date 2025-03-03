@@ -3347,3 +3347,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 09:18:19.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [03Mar2025 09:23:18.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 09:23:18.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 09:26:58.495] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing MapItemDataPacketMixin from moonlight-common.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[03Mar2025 09:26:58.499] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$1(I)[Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mdbd6443$lambda$moonlight$sendCustomDecorations$1$0 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[03Mar2025 09:26:58.499] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$0(Lnet/minecraft/network/FriendlyByteBuf;Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration;)Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mdbd6443$lambda$moonlight$sendCustomDecorations$0$1 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[03Mar2025 09:27:01.648] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[03Mar2025 09:27:01.649] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[03Mar2025 09:27:01.649] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[03Mar2025 09:27:01.649] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[03Mar2025 09:28:18.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 09:28:18.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 09:33:18.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 09:33:18.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
