@@ -72,6 +72,7 @@
       "minecraft:snowy_beach": "2025-02-27 08:26:40 +0000",
       "minecraft:windswept_savanna": "2025-03-02 20:28:40 +0000",
       "minecraft:deep_dark": "2025-02-27 19:22:33 +0000",
+      "minecraft:meadow": "2025-03-05 19:12:33 +0000",
       "minecraft:plains": "2025-02-27 19:26:12 +0000"
     },
     "done": false
@@ -7444,77 +7445,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
+      "all_effects": "2025-03-05 19:13:00 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-05 18:35:35 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
