@@ -1700,6 +1700,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-26 20:49:00 +0000",
+      "minecraft:blaze": "2025-03-05 15:49:23 +0000",
       "minecraft:skeleton": "2025-02-26 19:40:30 +0000",
       "minecraft:ravager": "2025-02-27 20:07:08 +0000",
       "minecraft:ghast": "2025-02-28 08:28:19 +0000",
@@ -7327,12 +7328,6 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_nether": "2025-03-05 15:46:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-05 15:46:37 +0000"
@@ -7348,6 +7343,36 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-05 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-03-05 15:46:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-05 15:49:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-05 15:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-05 15:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-05 15:49:24 +0000"
     },
     "done": true
   },

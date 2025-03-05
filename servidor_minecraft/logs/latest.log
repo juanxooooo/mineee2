@@ -180,3 +180,53 @@
 [05Mar2025 15:40:32.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5923ms or 118 ticks behind
 [05Mar2025 15:43:17.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [05Mar2025 15:49:24.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has made the advancement [Into Fire]
+[05Mar2025 15:54:04.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=17, z=-223} BlockPos{x=206, y=17, z=-222}
+[05Mar2025 15:54:12.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=17, z=-224} BlockPos{x=217, y=17, z=-221}
+[05Mar2025 15:54:12.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=17, z=-222} BlockPos{x=218, y=17, z=-221}
+[05Mar2025 15:54:27.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=232, y=17, z=-221} BlockPos{x=232, y=17, z=-220}
+[05Mar2025 15:55:09.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=17, z=-217} BlockPos{x=202, y=17, z=-218}
+[05Mar2025 15:56:43.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=276, y=17, z=-224} BlockPos{x=276, y=17, z=-223}
+[05Mar2025 15:57:42.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=17, z=-223} BlockPos{x=304, y=18, z=-221}
+[05Mar2025 15:58:36.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:36.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:36.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-219}
+[05Mar2025 15:58:37.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=17, z=-215} BlockPos{x=378, y=17, z=-218}
+[05Mar2025 15:59:02.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=17, z=-221} BlockPos{x=343, y=17, z=-224}
+[05Mar2025 15:59:54.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=433, y=17, z=-217} BlockPos{x=432, y=17, z=-219}
+[05Mar2025 16:00:05.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=417, y=16, z=-218} BlockPos{x=417, y=16, z=-219}
+[05Mar2025 16:02:01.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=500, y=17, z=-217} BlockPos{x=499, y=17, z=-216}
+[05Mar2025 16:02:11.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Disconnected
+[05Mar2025 16:02:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[05Mar2025 16:05:09.924] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Mar2025 16:05:09.975] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Mar2025 16:05:10.024] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Mar2025 16:05:10.074] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Mar2025 16:05:10.123] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Mar2025 16:05:10.173] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Mar2025 16:05:10.223] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Mar2025 16:05:10.276] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Mar2025 16:05:10.324] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Mar2025 16:05:10.374] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Mar2025 16:05:10.423] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Mar2025 16:05:10.514] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Mar2025 16:05:10.634] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Mar2025 16:05:10.679] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Mar2025 16:05:10.680] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Mar2025 16:05:10.722] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Mar2025 16:05:15.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.33.99.207:47645] logged in with entity id 12428 at (482.71220256305986, 16.0, -219.6725327597684)
+[05Mar2025 16:05:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[05Mar2025 16:05:15.698] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[05Mar2025 16:05:53.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=17, z=-218} BlockPos{x=468, y=16, z=-218}
+[05Mar2025 16:06:03.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:03.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=17, z=-217} BlockPos{x=461, y=17, z=-219}
+[05Mar2025 16:06:43.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
