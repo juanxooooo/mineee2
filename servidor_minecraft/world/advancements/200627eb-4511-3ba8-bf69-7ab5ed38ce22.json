@@ -204,6 +204,7 @@
       "clover_patch": "2025-03-02 20:30:12 +0000",
       "cold_desert": "2025-02-27 19:08:12 +0000",
       "maple_woods": "2025-02-26 15:49:57 +0000",
+      "crystalline_chasm": "2025-03-03 13:43:51 +0000",
       "field": "2025-02-27 19:27:58 +0000",
       "orchard": "2025-03-02 20:28:25 +0000",
       "lavender_forest": "2025-02-27 20:02:21 +0000",
@@ -7260,77 +7261,144 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-03 13:40:51 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "requirement": "2025-03-03 16:44:19 +0000",
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-03 13:36:58 +0000"
+      "log_spam_fixer": "2025-03-03 16:44:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-03 13:46:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-03-03 13:46:52 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
