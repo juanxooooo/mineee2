@@ -7376,5 +7376,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-05 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 16:14:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

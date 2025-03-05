@@ -4134,3 +4134,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Mar2025 16:06:43.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [05Mar2025 16:06:53.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 16:06:54.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 16:11:53.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 16:11:54.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 16:14:22.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14828, l='ServerLevel[world]', x=780.30, y=63.00, z=-492.30] died, message: 'Unemployed was slain by Zombie'
+[05Mar2025 16:14:25.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14829, l='ServerLevel[world]', x=783.70, y=63.00, z=-492.70] died, message: 'Unemployed was slain by Zombie'
+[05Mar2025 16:16:53.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 16:16:53.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 16:21:53.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 16:21:54.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 16:26:54.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 16:26:54.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 16:30:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GalletasOreo: Teleported GalletasOreo to 1191.500000, 63.000000, -985.500000]
