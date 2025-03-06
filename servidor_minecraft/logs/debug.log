@@ -3394,3 +3394,485 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Mar2025 21:14:55.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Mar2025 21:19:55.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Mar2025 21:19:55.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:23:41.685] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 79 messages to dispatch.
+[06Mar2025 21:23:41.743] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[06Mar2025 21:23:41.793] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[06Mar2025 21:23:41.816] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 0
+[06Mar2025 21:23:41.819] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:41.820] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Mar2025 21:23:41.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[06Mar2025 21:23:41.862] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 1
+[06Mar2025 21:23:41.862] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:41.862] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Mar2025 21:23:41.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[06Mar2025 21:23:41.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 2
+[06Mar2025 21:23:41.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:41.912] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Mar2025 21:23:41.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[06Mar2025 21:23:41.962] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 3
+[06Mar2025 21:23:41.962] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:41.962] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Mar2025 21:23:41.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[06Mar2025 21:23:42.011] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 4
+[06Mar2025 21:23:42.012] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.012] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Mar2025 21:23:42.043] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
+[06Mar2025 21:23:42.061] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 5
+[06Mar2025 21:23:42.061] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.061] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Mar2025 21:23:42.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_condition-0' to 'calio:channel' sequence 7
+[06Mar2025 21:23:42.110] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 6
+[06Mar2025 21:23:42.111] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.111] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Mar2025 21:23:42.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_fluid_condition-0' to 'calio:channel' sequence 8
+[06Mar2025 21:23:42.160] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 7
+[06Mar2025 21:23:42.160] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.160] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Mar2025 21:23:42.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_action-0' to 'calio:channel' sequence 9
+[06Mar2025 21:23:42.209] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 8
+[06Mar2025 21:23:42.210] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.210] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Mar2025 21:23:42.243] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_condition-0' to 'calio:channel' sequence 10
+[06Mar2025 21:23:42.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 9
+[06Mar2025 21:23:42.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.260] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Mar2025 21:23:42.293] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_modifier-0' to 'calio:channel' sequence 11
+[06Mar2025 21:23:42.309] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 10
+[06Mar2025 21:23:42.309] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.309] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Mar2025 21:23:42.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-0' to 'calio:channel' sequence 12
+[06Mar2025 21:23:42.358] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 11
+[06Mar2025 21:23:42.358] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.358] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Mar2025 21:23:42.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:global_power_set-0' to 'calio:channel' sequence 13
+[06Mar2025 21:23:42.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:layers-0' to 'calio:channel' sequence 14
+[06Mar2025 21:23:42.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:origins-0' to 'calio:channel' sequence 15
+[06Mar2025 21:23:42.503] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 12
+[06Mar2025 21:23:42.503] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.503] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Mar2025 21:23:42.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 16
+[06Mar2025 21:23:42.543] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 13
+[06Mar2025 21:23:42.543] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.543] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Mar2025 21:23:42.544] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 14
+[06Mar2025 21:23:42.544] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.544] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Mar2025 21:23:42.589] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 15
+[06Mar2025 21:23:42.590] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[06Mar2025 21:23:42.590] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Mar2025 21:23:42.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 17
+[06Mar2025 21:23:42.628] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 16
+[06Mar2025 21:23:42.629] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Mar2025 21:23:42.629] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 18
+[06Mar2025 21:23:42.692] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 19
+[06Mar2025 21:23:42.743] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 20
+[06Mar2025 21:23:42.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Mar2025 21:23:42.744] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Mar2025 21:23:42.744] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mcwbridges, repurposed_structures, terrablender, moonlight, endertrigon, biomesoplenty, mixinsquared, jade, amendments, additionalentityattributes, geckolib, jei, libraryferret, calio, caelus, incendium, apoli, ribbits, curios, origins, journeymap, citadel, alexsmobs, securitycraft, travelersbackpack, artifacts, yungsapi, bettervillage, crackerslib, mixinextras, tombstone, dungeoncrawl, cave_dweller, architectury, refurbished_furniture, framework, paraglider, dungeons_arise_seven_seas, cloth_config, forge, zeta, appleskin, expandability, supplementaries]
+[06Mar2025 21:23:42.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[06Mar2025 21:23:42.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'calio:channel' : Version test of '1.2' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'origins:network' : Version test of '1.2' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.746] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.747] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.0' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apoli:channel' : Version test of '1.3' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.748] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[06Mar2025 21:23:42.749] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Mar2025 21:23:42.750] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Mar2025 21:23:42.770] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Mar2025 21:23:42.771] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.771] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.793] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:badge_factory' to 'fml:handshake' sequence 21
+[06Mar2025 21:23:42.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 22
+[06Mar2025 21:23:42.853] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Mar2025 21:23:42.854] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.854] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:fluid_condition' to 'fml:handshake' sequence 23
+[06Mar2025 21:23:42.893] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[06Mar2025 21:23:42.893] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.893] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.893] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[06Mar2025 21:23:42.894] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.894] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 24
+[06Mar2025 21:23:42.943] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[06Mar2025 21:23:42.943] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.943] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:42.992] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_condition' to 'fml:handshake' sequence 25
+[06Mar2025 21:23:42.993] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[06Mar2025 21:23:42.993] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:42.993] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.042] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[06Mar2025 21:23:43.043] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.043] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.043] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 26
+[06Mar2025 21:23:43.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_action' to 'fml:handshake' sequence 27
+[06Mar2025 21:23:43.093] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[06Mar2025 21:23:43.094] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.094] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_biome_condition' to 'fml:handshake' sequence 28
+[06Mar2025 21:23:43.143] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[06Mar2025 21:23:43.143] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.143] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[06Mar2025 21:23:43.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.193] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.194] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_action' to 'fml:handshake' sequence 29
+[06Mar2025 21:23:43.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 30
+[06Mar2025 21:23:43.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[06Mar2025 21:23:43.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.248] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.293] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:origins' to 'fml:handshake' sequence 31
+[06Mar2025 21:23:43.297] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[06Mar2025 21:23:43.298] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.298] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_damage_condition' to 'fml:handshake' sequence 32
+[06Mar2025 21:23:43.345] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[06Mar2025 21:23:43.345] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.346] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:power_factory' to 'fml:handshake' sequence 33
+[06Mar2025 21:23:43.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[06Mar2025 21:23:43.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_action' to 'fml:handshake' sequence 34
+[06Mar2025 21:23:43.446] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[06Mar2025 21:23:43.446] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.446] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 35
+[06Mar2025 21:23:43.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[06Mar2025 21:23:43.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.496] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_condition' to 'fml:handshake' sequence 36
+[06Mar2025 21:23:43.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[06Mar2025 21:23:43.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 37
+[06Mar2025 21:23:43.593] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[06Mar2025 21:23:43.593] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.593] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_condition' to 'fml:handshake' sequence 38
+[06Mar2025 21:23:43.643] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[06Mar2025 21:23:43.643] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.643] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.692] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[06Mar2025 21:23:43.693] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.693] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.693] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 39
+[06Mar2025 21:23:43.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 40
+[06Mar2025 21:23:43.792] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_condition' to 'fml:handshake' sequence 41
+[06Mar2025 21:23:43.805] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[06Mar2025 21:23:43.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[06Mar2025 21:23:43.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 42
+[06Mar2025 21:23:43.855] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[06Mar2025 21:23:43.856] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.856] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_action' to 'fml:handshake' sequence 43
+[06Mar2025 21:23:43.913] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[06Mar2025 21:23:43.913] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.915] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_action' to 'fml:handshake' sequence 44
+[06Mar2025 21:23:43.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[06Mar2025 21:23:43.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:43.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:43.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_modifier' to 'fml:handshake' sequence 45
+[06Mar2025 21:23:44.010] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[06Mar2025 21:23:44.010] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.011] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 46
+[06Mar2025 21:23:44.060] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[06Mar2025 21:23:44.060] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.060] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_condition' to 'fml:handshake' sequence 47
+[06Mar2025 21:23:44.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[06Mar2025 21:23:44.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.143] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_action' to 'fml:handshake' sequence 48
+[06Mar2025 21:23:44.160] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[06Mar2025 21:23:44.160] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.161] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:biome_condition' to 'fml:handshake' sequence 49
+[06Mar2025 21:23:44.210] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[06Mar2025 21:23:44.210] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.210] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 50
+[06Mar2025 21:23:44.258] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[06Mar2025 21:23:44.259] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.259] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.293] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_power' to 'fml:handshake' sequence 51
+[06Mar2025 21:23:44.308] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[06Mar2025 21:23:44.308] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.308] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_action' to 'fml:handshake' sequence 52
+[06Mar2025 21:23:44.356] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[06Mar2025 21:23:44.356] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.356] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 53
+[06Mar2025 21:23:44.406] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[06Mar2025 21:23:44.407] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.407] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 54
+[06Mar2025 21:23:44.458] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[06Mar2025 21:23:44.458] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.458] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:global_power_set' to 'fml:handshake' sequence 55
+[06Mar2025 21:23:44.504] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[06Mar2025 21:23:44.505] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.505] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 56
+[06Mar2025 21:23:44.552] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[06Mar2025 21:23:44.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.553] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 57
+[06Mar2025 21:23:44.602] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[06Mar2025 21:23:44.602] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.602] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 58
+[06Mar2025 21:23:44.650] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 57
+[06Mar2025 21:23:44.650] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.650] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.693] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_condition' to 'fml:handshake' sequence 59
+[06Mar2025 21:23:44.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 58
+[06Mar2025 21:23:44.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.743] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_condition' to 'fml:handshake' sequence 60
+[06Mar2025 21:23:44.756] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 59
+[06Mar2025 21:23:44.756] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.756] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.793] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 61
+[06Mar2025 21:23:44.805] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 60
+[06Mar2025 21:23:44.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.806] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:modifier' to 'fml:handshake' sequence 62
+[06Mar2025 21:23:44.855] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 61
+[06Mar2025 21:23:44.856] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.856] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.893] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 63
+[06Mar2025 21:23:44.905] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 62
+[06Mar2025 21:23:44.905] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 62 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.906] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_condition' to 'fml:handshake' sequence 64
+[06Mar2025 21:23:44.955] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 63
+[06Mar2025 21:23:44.956] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 63 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:44.956] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:44.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_fluid_condition' to 'fml:handshake' sequence 65
+[06Mar2025 21:23:45.005] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 64
+[06Mar2025 21:23:45.006] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 64 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:45.006] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:45.043] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:damage_condition' to 'fml:handshake' sequence 66
+[06Mar2025 21:23:45.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 65
+[06Mar2025 21:23:45.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 65 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:45.055] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:45.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry calio:player_ability' to 'fml:handshake' sequence 67
+[06Mar2025 21:23:45.104] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 66
+[06Mar2025 21:23:45.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 66 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:45.105] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:45.143] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_action' to 'fml:handshake' sequence 68
+[06Mar2025 21:23:45.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 67
+[06Mar2025 21:23:45.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 67 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:45.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:45.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 69
+[06Mar2025 21:23:45.244] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 70
+[06Mar2025 21:23:45.293] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 71
+[06Mar2025 21:23:45.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 72
+[06Mar2025 21:23:45.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apoli-server.toml' to 'fml:handshake' sequence 73
+[06Mar2025 21:23:45.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 74
+[06Mar2025 21:23:45.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 75
+[06Mar2025 21:23:45.542] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 76
+[06Mar2025 21:23:45.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 77
+[06Mar2025 21:23:45.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 78
+[06Mar2025 21:23:46.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 68
+[06Mar2025 21:23:46.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 68 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.545] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.585] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 69
+[06Mar2025 21:23:46.585] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 69 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.585] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 70
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 70 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 71
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 71 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 72
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 72 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 73
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 73 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 74
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 74 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 75
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 75 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.586] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 76
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 76 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 77
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 77 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 78
+[06Mar2025 21:23:46.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 78 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[06Mar2025 21:23:46.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Mar2025 21:23:46.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnneTheAvocado[/127.6.234.178:59981] logged in with entity id 648 at (-157.74890832928074, 66.24918707874468, -907.3951402080769)
+[06Mar2025 21:23:46.788] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@f603ea1 into net.minecraft.network.Connection@20583d05
+[06Mar2025 21:23:46.837] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[06Mar2025 21:23:46.838] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[06Mar2025 21:23:47.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
+[06Mar2025 21:23:47.212] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
+[06Mar2025 21:23:57.882] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Mixing ChunkHolderMixin from supplementaries.mixins.json into net.minecraft.network.protocol.game.ClientboundLevelChunkPacketData$BlockEntityInfo
+[06Mar2025 21:23:57.882] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Renaming synthetic method lambda$sendBlockEntityCaps$2(Lnet/minecraft/world/level/block/entity/BlockEntity;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;)V to mda26c9e$lambda$sendBlockEntityCaps$2$0 in supplementaries.mixins.json:ChunkHolderMixin
+[06Mar2025 21:23:57.882] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Renaming synthetic method lambda$sendBlockEntityCaps$1(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/mehvahdjukaar/supplementaries/api/IAntiqueTextProvider;)V to mda26c9e$lambda$sendBlockEntityCaps$1$1 in supplementaries.mixins.json:ChunkHolderMixin
+[06Mar2025 21:23:57.882] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Renaming synthetic method lambda$sendBlockEntityCaps$0(Lnet/minecraft/core/BlockPos;Lnet/mehvahdjukaar/supplementaries/api/IAntiqueTextProvider;Lnet/minecraft/server/level/ServerPlayer;)V to mda26c9e$lambda$sendBlockEntityCaps$0$2 in supplementaries.mixins.json:ChunkHolderMixin
+[06Mar2025 21:23:57.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11154ms or 223 ticks behind
+[06Mar2025 21:24:05.335] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 26 | -876).
+[06Mar2025 21:24:05.341] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[06Mar2025 21:24:05.353] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[06Mar2025 21:24:05.353] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[06Mar2025 21:24:05.353] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[06Mar2025 21:24:05.353] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[06Mar2025 21:24:05.354] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 5(0) Rooms
+[06Mar2025 21:24:05.354] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[06Mar2025 21:24:05.354] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(1) Nodes and 5(0) Rooms
+[06Mar2025 21:24:05.354] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[06Mar2025 21:24:05.355] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[06Mar2025 21:24:12.329] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-194, y=-18, z=-1086}
+[06Mar2025 21:24:12.488] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[06Mar2025 21:24:21.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8989ms or 179 ticks behind
+[06Mar2025 21:24:39.522] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-397, y=17, z=-828}
+[06Mar2025 21:24:39.809] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:39.814] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:39.824] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:39.829] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:43.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6241ms or 124 ticks behind
+[06Mar2025 21:24:46.972] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-33, z=-1136}
+[06Mar2025 21:24:47.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-177, y=-33, z=-1138}
+[06Mar2025 21:24:59.472] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:59.472] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:59.578] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-420 | 17 | -809)
+[06Mar2025 21:24:59.580] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-420 | 17 | -809)
+[06Mar2025 21:24:59.580] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-425 | 17 | -826)
+[06Mar2025 21:24:59.585] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-425 | 17 | -826)
+[06Mar2025 21:24:59.586] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-418 | 22 | -801)
+[06Mar2025 21:24:59.586] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-418 | 22 | -801)
+[06Mar2025 21:24:59.587] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -804)
+[06Mar2025 21:24:59.590] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -804)
+[06Mar2025 21:24:59.590] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-414 | 17 | -802)
+[06Mar2025 21:24:59.591] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-414 | 17 | -802)
+[06Mar2025 21:24:59.592] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -802)
+[06Mar2025 21:24:59.592] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -802)
+[06Mar2025 21:24:59.592] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-412 | 17 | -804)
+[06Mar2025 21:24:59.594] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-412 | 17 | -804)
+[06Mar2025 21:24:59.594] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-416 | -1 | -802)
+[06Mar2025 21:24:59.594] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-416 | -1 | -802)
+[06Mar2025 21:24:59.597] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-416 | -1 | -802)
+[06Mar2025 21:24:59.598] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-416 | -1 | -802)
+[06Mar2025 21:24:59.598] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-415 | -1 | -807)
+[06Mar2025 21:24:59.601] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-415 | -1 | -807)
+[06Mar2025 21:24:59.602] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-415 | -1 | -807)
+[06Mar2025 21:24:59.611] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-415 | -1 | -807)
+[06Mar2025 21:24:59.692] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:59.706] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-416 | -11 | -880)
+[06Mar2025 21:24:59.920] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-418 | 22 | -801)
+[06Mar2025 21:24:59.921] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-418 | 22 | -801)
+[06Mar2025 21:24:59.921] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (-419 | 17 | -797)
+[06Mar2025 21:24:59.921] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (-419 | 17 | -797)
+[06Mar2025 21:24:59.921] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-414 | 17 | -802)
+[06Mar2025 21:24:59.922] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-414 | 17 | -802)
+[06Mar2025 21:24:59.922] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -802)
+[06Mar2025 21:24:59.923] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-419 | 17 | -802)
+[06Mar2025 21:24:59.923] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-419 | 17 | -795)
+[06Mar2025 21:24:59.923] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-419 | 17 | -795)
+[06Mar2025 21:24:59.924] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-425 | 17 | -790)
+[06Mar2025 21:24:59.929] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-425 | 17 | -790)
+[06Mar2025 21:24:59.929] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-412 | 17 | -804)
+[06Mar2025 21:24:59.934] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-412 | 17 | -804)
+[06Mar2025 21:24:59.935] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-416 | -1 | -802)
+[06Mar2025 21:24:59.935] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-416 | -1 | -802)
+[06Mar2025 21:24:59.935] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-416 | -1 | -802)
+[06Mar2025 21:24:59.936] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-416 | -1 | -802)
+[06Mar2025 21:24:59.936] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-415 | -1 | -807)
+[06Mar2025 21:24:59.939] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-415 | -1 | -807)
+[06Mar2025 21:24:59.940] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-415 | -1 | -807)
+[06Mar2025 21:24:59.946] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-415 | -1 | -807)
+[06Mar2025 21:25:20.553] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-428 | 4 | -865)
+[06Mar2025 21:25:20.554] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-428 | 4 | -865)
+[06Mar2025 21:25:20.554] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-428 | 4 | -865)
+[06Mar2025 21:25:20.554] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-428 | 4 | -865)
+[06Mar2025 21:25:20.554] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-433 | -1 | -859)
+[06Mar2025 21:25:20.561] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-433 | -1 | -859)
+[06Mar2025 21:25:20.561] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-433 | -1 | -859)
+[06Mar2025 21:25:20.562] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-433 | -1 | -859)
+[06Mar2025 21:25:20.562] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-422 | -1 | -866)
+[06Mar2025 21:25:20.563] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-422 | -1 | -866)
+[06Mar2025 21:25:20.566] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-422 | -1 | -866)
+[06Mar2025 21:25:20.566] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-422 | -1 | -866)
+[06Mar2025 21:25:20.566] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-429 | -1 | -859)
+[06Mar2025 21:25:20.567] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-429 | -1 | -859)
+[06Mar2025 21:25:20.573] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-429 | -1 | -859)
+[06Mar2025 21:25:20.575] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-429 | -1 | -859)
+[06Mar2025 21:25:20.575] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-434 | -1 | -871)
+[06Mar2025 21:25:20.577] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-434 | -1 | -871)
+[06Mar2025 21:25:20.577] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-434 | -1 | -871)
+[06Mar2025 21:25:20.580] [Worker-Main-37/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-434 | -1 | -871)
+[06Mar2025 21:25:20.944] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-439 | 17 | -786)
+[06Mar2025 21:25:20.945] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-439 | 17 | -786)
+[06Mar2025 21:25:20.945] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-430 | 17 | -785)
+[06Mar2025 21:25:20.946] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-430 | 17 | -785)
+[06Mar2025 21:25:20.946] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-425 | 17 | -790)
+[06Mar2025 21:25:20.948] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-425 | 17 | -790)
+[06Mar2025 21:25:20.948] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-438 | 8 | -787)
+[06Mar2025 21:25:20.949] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-438 | 8 | -787)
+[06Mar2025 21:25:20.951] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-443 | 8 | -799)
+[06Mar2025 21:25:20.951] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-443 | 8 | -799)
+[06Mar2025 21:25:22.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:25:22.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:25:44.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-206, y=-12, z=-1155}
+[06Mar2025 21:25:44.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-204, y=-12, z=-1155}
+[06Mar2025 21:29:27.509] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=96, y=-27, z=-768}
+[06Mar2025 21:29:27.512] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=96, y=-27, z=-767}
+[06Mar2025 21:30:21.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:30:21.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

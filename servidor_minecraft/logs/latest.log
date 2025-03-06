@@ -194,3 +194,33 @@
 [06Mar2025 20:54:54.369] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 36327 ms
 [06Mar2025 20:54:54.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (48.309s)! For help, type "help"
 [06Mar2025 20:54:54.786] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Mar2025 21:23:41.820] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Mar2025 21:23:41.862] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Mar2025 21:23:41.912] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Mar2025 21:23:41.962] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Mar2025 21:23:42.012] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Mar2025 21:23:42.061] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Mar2025 21:23:42.111] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Mar2025 21:23:42.160] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Mar2025 21:23:42.210] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Mar2025 21:23:42.260] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Mar2025 21:23:42.309] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Mar2025 21:23:42.358] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Mar2025 21:23:42.503] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Mar2025 21:23:42.543] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Mar2025 21:23:42.544] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Mar2025 21:23:42.590] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Mar2025 21:23:46.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnneTheAvocado[/127.6.234.178:59981] logged in with entity id 648 at (-157.74890832928074, 66.24918707874468, -907.3951402080769)
+[06Mar2025 21:23:47.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
+[06Mar2025 21:23:47.212] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
+[06Mar2025 21:23:57.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11154ms or 223 ticks behind
+[06Mar2025 21:24:12.329] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-194, y=-18, z=-1086}
+[06Mar2025 21:24:21.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8989ms or 179 ticks behind
+[06Mar2025 21:24:39.522] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-397, y=17, z=-828}
+[06Mar2025 21:24:43.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6241ms or 124 ticks behind
+[06Mar2025 21:24:46.972] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-178, y=-33, z=-1136}
+[06Mar2025 21:24:47.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-177, y=-33, z=-1138}
+[06Mar2025 21:25:44.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-206, y=-12, z=-1155}
+[06Mar2025 21:25:44.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-204, y=-12, z=-1155}
+[06Mar2025 21:29:27.509] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=96, y=-27, z=-768}
+[06Mar2025 21:29:27.512] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=96, y=-27, z=-767}
