@@ -58,6 +58,7 @@
       "minecraft:cold_ocean": "2025-02-27 07:58:18 +0000",
       "minecraft:forest": "2025-03-02 20:10:33 +0000",
       "minecraft:lush_caves": "2025-02-28 07:45:53 +0000",
+      "minecraft:ocean": "2025-03-06 22:17:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-27 07:46:15 +0000",
       "minecraft:meadow": "2025-03-02 19:32:54 +0000"
     },
@@ -1636,7 +1637,8 @@
       "minecraft:cave_spider": "2025-02-28 07:58:45 +0000",
       "minecraft:silverfish": "2025-03-02 22:37:08 +0000",
       "minecraft:stray": "2025-03-03 11:42:01 +0000",
-      "minecraft:zombie": "2025-02-27 08:18:25 +0000"
+      "minecraft:zombie": "2025-02-27 08:18:25 +0000",
+      "minecraft:drowned": "2025-03-06 22:17:16 +0000"
     },
     "done": false
   },
@@ -6458,6 +6460,54 @@
       "has_white_wool": "2025-03-06 21:32:12 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-06 22:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-06 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 22:17:16 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-03-06 22:12:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
