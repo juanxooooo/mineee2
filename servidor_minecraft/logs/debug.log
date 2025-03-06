@@ -3379,3 +3379,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Mar2025 20:54:56.175] [Server thread/DEBUG] [artifacts.Artifacts/]: Loaded artifacts.forge.platform.ForgePlatformHelper@398ab189 for service interface artifacts.platform.PlatformHelper
 [06Mar2025 20:59:55.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Mar2025 20:59:55.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:04:55.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:04:55.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:09:55.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:09:55.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:09:55.794] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing MapItemDataPacketMixin from moonlight-common.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[06Mar2025 21:09:55.796] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$1(I)[Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mda26c9e$lambda$moonlight$sendCustomDecorations$1$0 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[06Mar2025 21:09:55.796] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$0(Lnet/minecraft/network/FriendlyByteBuf;Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration;)Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to mda26c9e$lambda$moonlight$sendCustomDecorations$0$1 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[06Mar2025 21:09:58.662] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[06Mar2025 21:09:58.662] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[06Mar2025 21:09:58.662] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[06Mar2025 21:09:58.662] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
