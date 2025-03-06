@@ -247,3 +247,14 @@
 [06Mar2025 21:39:36.031] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
 [06Mar2025 21:50:00.808] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-465, y=25, z=-823}
 [06Mar2025 21:50:00.809] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-463, y=25, z=-823}
+[06Mar2025 22:11:53.810] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-479, y=-54, z=-839}
+[06Mar2025 22:11:59.081] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-485, y=24, z=-912}
+[06Mar2025 22:11:59.082] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-485, y=24, z=-914}
+[06Mar2025 22:12:00.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=2, z=-706}
+[06Mar2025 22:12:13.928] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-536, y=-25, z=-851}
+[06Mar2025 22:12:13.929] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-536, y=-25, z=-849}
+[06Mar2025 22:12:14.161] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-528, y=-14, z=-891}
+[06Mar2025 22:12:25.842] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-221, y=-31, z=-531}
+[06Mar2025 22:12:33.045] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-445, y=-26, z=-484}
+[06Mar2025 22:12:33.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-445, y=-26, z=-486}
+[06Mar2025 22:13:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has reached the goal [Fortuitous Militia]
