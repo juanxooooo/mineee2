@@ -245,3 +245,5 @@
 [06Mar2025 21:39:35.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnneTheAvocado[/127.6.234.178:60269] logged in with entity id 4985 at (-141.55811611734757, 67.0, -935.1835715155547)
 [06Mar2025 21:39:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
 [06Mar2025 21:39:36.031] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
+[06Mar2025 21:50:00.808] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-465, y=25, z=-823}
+[06Mar2025 21:50:00.809] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-463, y=25, z=-823}
