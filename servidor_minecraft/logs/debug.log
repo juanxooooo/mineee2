@@ -4533,3 +4533,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Mar2025 21:50:01.156] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-470 | -11 | -799)
 [06Mar2025 21:50:21.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Mar2025 21:50:21.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 21:55:21.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:55:21.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 22:00:21.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 22:00:21.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
