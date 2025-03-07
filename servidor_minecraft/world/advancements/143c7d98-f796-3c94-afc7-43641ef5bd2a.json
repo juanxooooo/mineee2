@@ -4578,7 +4578,8 @@
       "orchard": "2025-03-02 19:35:39 +0000",
       "redwood_forest": "2025-03-02 20:10:38 +0000",
       "seasonal_forest": "2025-03-03 10:45:52 +0000",
-      "glowing_grotto": "2025-03-02 19:15:19 +0000"
+      "glowing_grotto": "2025-03-02 19:15:19 +0000",
+      "undergrowth": "2025-03-06 22:34:24 +0000"
     },
     "done": false
   },
@@ -6461,87 +6462,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "repurposed_structures:outposts": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
+      "in_outpost_oak": "2025-03-06 22:12:46 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
+      "coded_trigger": "2025-03-06 22:13:22 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 22:30:21 +0000"
-    },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-03-06 22:17:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-03-06 22:28:17 +0000"
     },
     "done": true
   },
@@ -6554,12 +6489,6 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 22:17:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-03-06 22:13:22 +0000"
     },
     "done": true
   },
@@ -6581,18 +6510,6 @@
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
-    "criteria": {
-      "in_outpost_oak": "2025-03-06 22:12:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-03-06 22:27:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-03-06 22:22:56 +0000"
@@ -6602,6 +6519,66 @@
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-03-06 22:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-06 22:27:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-06 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-03-06 22:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-06 22:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-06 22:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-06 22:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-06 22:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-06 22:38:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-03-06 22:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-06 22:34:17 +0000"
     },
     "done": true
   },
