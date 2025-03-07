@@ -199,3 +199,7 @@
 [07Mar2025 11:06:59.285] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=334, y=-42, z=-2347}
 [07Mar2025 11:07:01.591] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=543, y=-39, z=-2347}
 [07Mar2025 11:11:03.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo has reached the goal [A little cleaning is necessary]
+[07Mar2025 11:12:41.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo moved wrongly!
+[07Mar2025 11:19:02.298] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1039, y=29, z=-655}
+[07Mar2025 11:19:02.300] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1039, y=29, z=-654}
+[07Mar2025 11:19:02.301] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1039, y=29, z=-653}
