@@ -55,6 +55,7 @@
       "minecraft:beach": "2025-02-28 08:41:48 +0000",
       "minecraft:river": "2025-02-28 08:41:41 +0000",
       "minecraft:stony_shore": "2025-02-27 07:57:48 +0000",
+      "minecraft:dripstone_caves": "2025-03-07 11:38:27 +0000",
       "minecraft:cold_ocean": "2025-02-27 07:58:18 +0000",
       "minecraft:forest": "2025-03-02 20:10:33 +0000",
       "minecraft:lush_caves": "2025-02-28 07:45:53 +0000",
@@ -1637,6 +1638,7 @@
       "minecraft:cave_spider": "2025-02-28 07:58:45 +0000",
       "minecraft:silverfish": "2025-03-02 22:37:08 +0000",
       "minecraft:stray": "2025-03-03 11:42:01 +0000",
+      "minecraft:enderman": "2025-03-07 12:24:00 +0000",
       "minecraft:zombie": "2025-02-27 08:18:25 +0000",
       "minecraft:drowned": "2025-03-06 22:17:16 +0000",
       "minecraft:zombie_villager": "2025-03-07 11:37:16 +0000"
@@ -4580,7 +4582,8 @@
       "redwood_forest": "2025-03-02 20:10:38 +0000",
       "seasonal_forest": "2025-03-03 10:45:52 +0000",
       "glowing_grotto": "2025-03-02 19:15:19 +0000",
-      "undergrowth": "2025-03-06 22:34:24 +0000"
+      "undergrowth": "2025-03-06 22:34:24 +0000",
+      "rainforest": "2025-03-07 12:25:36 +0000"
     },
     "done": false
   },
@@ -6586,6 +6589,162 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-03-07 11:32:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_item": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-03-07 12:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-03-07 12:36:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-03-07 12:35:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortress_jungle": {
+    "criteria": {
+      "in_jungle_fortress": "2025-03-07 12:33:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-07 12:35:31 +0000"
     },
     "done": true
   },
