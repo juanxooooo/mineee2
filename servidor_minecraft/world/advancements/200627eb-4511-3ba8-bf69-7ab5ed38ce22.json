@@ -7481,6 +7481,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-03-07 11:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-03-07 11:15:34 +0000"
@@ -7505,6 +7511,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-07 11:30:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-03-07 11:14:09 +0000"
@@ -7514,6 +7526,18 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-07 11:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-07 11:30:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-07 11:30:47 +0000"
     },
     "done": true
   },
@@ -7544,6 +7568,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_soul_torch": "2025-03-07 11:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-07 11:27:13 +0000"
     },
     "done": true
   },
