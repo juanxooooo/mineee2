@@ -6592,77 +6592,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "repurposed_structures:fortress_jungle": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+      "in_jungle_fortress": "2025-03-07 12:33:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+      "has_log": "2025-03-07 12:35:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
+      "has_logs": "2025-03-07 12:35:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 12:36:53 +0000"
-    },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
     "criteria": {
@@ -6673,24 +6619,6 @@
   "biomesoplenty:recipes/building_blocks/mahogany_slab": {
     "criteria": {
       "has_planks": "2025-03-07 12:35:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-03-07 12:35:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-03-07 12:36:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-03-07 12:35:24 +0000"
     },
     "done": true
   },
@@ -6718,12 +6646,6 @@
     },
     "done": true
   },
-  "repurposed_structures:fortress_jungle": {
-    "criteria": {
-      "in_jungle_fortress": "2025-03-07 12:33:41 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-07 12:35:31 +0000"
@@ -6745,6 +6667,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-03-07 12:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-03-07 12:36:31 +0000"
     },
     "done": true
   },
