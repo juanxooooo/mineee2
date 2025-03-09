@@ -6700,6 +6700,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-09 16:25:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_redwood_wood": {
     "criteria": {
       "has_log": "2025-03-09 16:00:54 +0000"
