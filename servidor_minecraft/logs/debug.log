@@ -4105,3 +4105,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Mar2025 16:25:04.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado has made the advancement [Chompy]
 [09Mar2025 16:26:13.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Mar2025 16:26:13.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 16:31:13.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 16:31:13.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 16:36:13.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 16:36:13.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 16:36:25.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnneTheAvocado lost connection: Disconnected
+[09Mar2025 16:36:25.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado left the game
