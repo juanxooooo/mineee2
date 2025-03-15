@@ -166,3 +166,61 @@
 [15Mar2025 17:49:27.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnneTheAvocado joined the game
 [15Mar2025 17:49:27.171] [Server thread/INFO] [Jade/]: Syncing config to AnneTheAvocado (143c7d98-f796-3c94-afc7-43641ef5bd2a)
 [15Mar2025 17:49:39.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12493ms or 249 ticks behind
+[15Mar2025 18:01:11.301] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Mar2025 18:01:11.330] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Mar2025 18:01:11.376] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Mar2025 18:01:11.428] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Mar2025 18:01:11.474] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Mar2025 18:01:11.524] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Mar2025 18:01:11.599] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Mar2025 18:01:11.668] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Mar2025 18:01:11.747] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Mar2025 18:01:11.787] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Mar2025 18:01:11.859] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Mar2025 18:01:11.892] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Mar2025 18:01:12.048] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Mar2025 18:01:12.048] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Mar2025 18:01:12.054] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Mar2025 18:01:12.064] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Mar2025 18:01:16.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luujpg[/127.182.37.135:59991] logged in with entity id 3084 at (1630.7801021291114, 70.0, -830.0154688742889)
+[15Mar2025 18:01:16.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg joined the game
+[15Mar2025 18:01:16.382] [Server thread/INFO] [Jade/]: Syncing config to luujpg (96939d4f-572f-32dd-8bb1-7d8435dc41bd)
+[15Mar2025 18:01:21.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[15Mar2025 18:01:39.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
+[15Mar2025 18:01:45.079] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Mar2025 18:01:45.135] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Mar2025 18:01:45.184] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Mar2025 18:01:45.240] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Mar2025 18:01:45.310] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Mar2025 18:01:45.408] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Mar2025 18:01:45.429] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1758, y=15, z=-843}
+[15Mar2025 18:01:45.483] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Mar2025 18:01:45.561] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Mar2025 18:01:45.631] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Mar2025 18:01:45.709] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Mar2025 18:01:45.770] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Mar2025 18:01:45.817] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Mar2025 18:01:46.021] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Mar2025 18:01:46.022] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Mar2025 18:01:46.043] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Mar2025 18:01:46.106] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Mar2025 18:01:51.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GalletasOreo[/127.17.173.137:41663] logged in with entity id 3290 at (-2206.700499375789, 72.0, -1607.0829875283926)
+[15Mar2025 18:01:51.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo joined the game
+[15Mar2025 18:01:51.315] [Server thread/INFO] [Jade/]: Syncing config to GalletasOreo (200627eb-4511-3ba8-bf69-7ab5ed38ce22)
+[15Mar2025 18:01:57.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[15Mar2025 18:02:15.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
+[15Mar2025 18:02:30.869] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1476, y=-52, z=-736}
+[15Mar2025 18:02:30.870] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1476, y=-52, z=-735}
+[15Mar2025 18:02:33.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[15Mar2025 18:02:51.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[15Mar2025 18:03:01.810] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1811, y=11, z=-894}
+[15Mar2025 18:03:07.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1815, y=-40, z=-913}
+[15Mar2025 18:03:09.347] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1820, y=-12, z=-670}
+[15Mar2025 18:03:09.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1820, y=-12, z=-671}
+[15Mar2025 18:03:11.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[15Mar2025 18:03:15.946] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1802, y=-20, z=-1016}
+[15Mar2025 18:03:31.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[15Mar2025 18:03:49.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[15Mar2025 18:04:03.778] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1759, y=-53, z=-578}
+[15Mar2025 18:04:04.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo moved too quickly! 3.63379995405478,-8.236817071132336,-5.319671357843845
+[15Mar2025 18:05:46.211] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1388, y=-50, z=-1009}
