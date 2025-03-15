@@ -224,3 +224,51 @@
 [15Mar2025 18:04:03.778] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1759, y=-53, z=-578}
 [15Mar2025 18:04:04.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo moved too quickly! 3.63379995405478,-8.236817071132336,-5.319671357843845
 [15Mar2025 18:05:46.211] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1388, y=-50, z=-1009}
+[15Mar2025 18:06:42.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[15Mar2025 18:07:10.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13224ms or 264 ticks behind
+[15Mar2025 18:07:14.959] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1574, y=-1, z=-518}
+[15Mar2025 18:07:28.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[15Mar2025 18:07:48.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15Mar2025 18:08:07.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[15Mar2025 18:08:24.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[15Mar2025 18:09:03.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[15Mar2025 18:09:24.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
+[15Mar2025 18:09:43.886] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2135, y=-14, z=-883}
+[15Mar2025 18:09:52.560] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2152, y=-8, z=-938}
+[15Mar2025 18:09:52.562] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2152, y=-8, z=-936}
+[15Mar2025 18:11:19.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[15Mar2025 18:11:36.064] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1998, y=-44, z=-996}
+[15Mar2025 18:11:47.125] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1998, y=-19, z=-1057}
+[15Mar2025 18:12:20.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[15Mar2025 18:12:42.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[15Mar2025 18:13:08.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GalletasOreo> zzz
+[15Mar2025 18:13:13.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luujpg lost connection: Disconnected
+[15Mar2025 18:13:13.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg left the game
+[15Mar2025 18:13:13.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GalletasOreo> zzzzzzzz
+[15Mar2025 18:13:21.521] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Mar2025 18:13:21.521] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Mar2025 18:13:21.602] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Mar2025 18:13:21.658] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Mar2025 18:13:21.721] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Mar2025 18:13:21.724] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Mar2025 18:13:21.770] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Mar2025 18:13:21.837] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Mar2025 18:13:21.840] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Mar2025 18:13:21.915] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Mar2025 18:13:21.960] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Mar2025 18:13:21.961] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Mar2025 18:13:22.204] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Mar2025 18:13:22.206] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Mar2025 18:13:22.220] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Mar2025 18:13:22.222] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Mar2025 18:13:26.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luujpg[/127.182.37.135:35713] logged in with entity id 12915 at (1878.5676312336693, 63.0, -671.8478037224279)
+[15Mar2025 18:13:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg joined the game
+[15Mar2025 18:13:26.329] [Server thread/INFO] [Jade/]: Syncing config to luujpg (96939d4f-572f-32dd-8bb1-7d8435dc41bd)
+[15Mar2025 18:14:29.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[15Mar2025 18:15:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg was doomed to fall
+[15Mar2025 18:15:05.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for luujpg with unique ID travelersbackpack.standard_15.03.2025-18.15.05.dat
+[15Mar2025 18:15:05.608] [Server thread/INFO] [tombstone/]: The player luujpg has successfully been saved
+[15Mar2025 18:15:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luujpg has reached the goal [Here They Come]
+[15Mar2025 18:16:24.444] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4569, y=-40, z=-1645}
+[15Mar2025 18:16:38.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15Mar2025 18:16:56.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind

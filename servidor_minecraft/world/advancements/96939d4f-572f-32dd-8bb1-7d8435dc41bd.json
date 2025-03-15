@@ -51,9 +51,12 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-26 21:39:58 +0000",
       "minecraft:taiga": "2025-02-26 19:26:08 +0000",
+      "minecraft:frozen_river": "2025-03-15 18:08:05 +0000",
       "minecraft:beach": "2025-02-26 21:06:58 +0000",
       "minecraft:river": "2025-02-26 19:31:25 +0000",
       "minecraft:stony_shore": "2025-02-26 19:25:37 +0000",
+      "minecraft:dripstone_caves": "2025-03-15 18:09:53 +0000",
+      "minecraft:snowy_taiga": "2025-03-15 18:14:18 +0000",
       "minecraft:cold_ocean": "2025-02-26 21:09:56 +0000",
       "minecraft:forest": "2025-02-27 18:05:35 +0000",
       "minecraft:deep_cold_ocean": "2025-02-26 21:10:35 +0000",
@@ -3019,6 +3022,7 @@
       "maple_woods": "2025-02-26 20:48:41 +0000",
       "coniferous_forest": "2025-02-26 21:07:35 +0000",
       "spider_nest": "2025-02-27 18:30:29 +0000",
+      "old_growth_dead_forest": "2025-03-15 18:08:04 +0000",
       "seasonal_orchard": "2025-02-27 19:12:04 +0000",
       "seasonal_forest": "2025-02-26 21:04:12 +0000",
       "pumpkin_patch": "2025-02-26 21:33:31 +0000"
@@ -4439,6 +4443,24 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-02-27 19:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-15 18:03:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-03-15 18:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-15 18:03:50 +0000"
     },
     "done": true
   },
